@@ -1,1 +1,2 @@
 Change from user1
+Conflict from user2
